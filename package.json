@@ -16,7 +16,9 @@
     "koa": "2.5.1",
     "koa-router": "7.4.0",
     "localenv": "0.2.2",
+    "lodash": "4.17.21",
     "optimist": "0.6.1",
+    "portastic": "1.0.1",
     "pump": "3.0.0",
     "tldjs": "2.3.1"
   },
